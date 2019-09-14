@@ -1,0 +1,79 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <line x1="21.5317" y1="70" x2="41.5317" y2="80" arr2="h40" li="dash"/>
+%  <line x1="21.5317" y1="70" x2="41.5317" y2="60" arr2="h40" li="dash"/>
+%  <text x="34" y="77.5" t="$s_1$" tex="$s_1$" h="4" halign="r"/>
+%  <text x="34" y="61" t="$s_2$" tex="$s_2$" h="4" halign="r"/>
+%  <text x="43.5317" y="79" t="$f_1$" tex="$f_1$" h="4"/>
+%  <text x="43.5317" y="58" t="$f_2$" tex="$f_2$" h="4"/>
+%  <text x="17" y="69" t="$f$" tex="$f$" h="4" li="dash"/>
+%  <line x1="21.5317" y1="37.6145" x2="41.5317" y2="47.6145" arr2="h40" li="dash"/>
+%  <line x1="21.5317" y1="37.6145" x2="41.5317" y2="27.6145" arr2="h40" li="dash"/>
+%  <text x="34" y="45.5" t="$s_1$" tex="$s_1$" h="4" halign="r"/>
+%  <text x="34" y="29" t="$s_2$" tex="$s_2$" h="4" halign="r"/>
+%  <text x="43.5317" y="46.6145" t="$g_1$" tex="$g_1$" h="4"/>
+%  <text x="43.5317" y="25.6145" t="$g_2$" tex="$g_2$" h="4"/>
+%  <text x="17" y="37" t="$g$" tex="$g$" h="4" li="dash"/>
+%  <line x1="22.4485" y1="39.6041" x2="22.4485" y2="39.6041" arr2="h40" li="dash"/>
+%  <line x1="0" y1="53.7" x2="15" y2="70" arr2="h40"/>
+%  <line x1="0" y1="53.7" x2="15" y2="38" arr2="h40"/>
+%  <text x="8" y="63.3063" t="$\alpha$" tex="$\alpha$" h="4" halign="r"/>
+%  <text x="8" y="41.7057" t="$1-\alpha$" tex="$1-\alpha$" h="4" halign="r"/>
+%  <text x="11.7541" y="15.7198" t="Randomization" h="4" li="dot"/>
+%  <text x="85" y="64" t="$s_1$" tex="$s_1$" h="4"/>
+%  <text x="85" y="42" t="$s_2$" tex="$s_2$" h="4"/>
+%  <line x1="72.4955" y1="53.7" x2="102.496" y2="70" arr2="h40" li="dash"/>
+%  <line x1="72.4955" y1="53.7" x2="102.496" y2="37.61" arr2="h40" li="dash"/>
+%  <text x="78.484" y="15.7198" t="State-wise Randomization" h="4"/>
+%  <text x="105" y="70" t="$\alpha f_1+(1-\alpha) g_1$" tex="$\alpha f_1+(1-\alpha) g_1$" h="4"/>
+%  <text x="105" y="37" t="$\alpha f_2+(1-\alpha) g_2$" tex="$\alpha f_2+(1-\alpha) g_2$" h="4"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(462.74, 202.05)(0,0)
+  \put(0,0){\includegraphics{eaep_main.pdf}}
+  \put(127.87,183.24){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(127.87,136.47){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(154.88,187.50){\fontsize{11.38}{13.66}\selectfont $f_1$}
+  \put(154.88,127.97){\fontsize{11.38}{13.66}\selectfont $f_2$}
+  \put(79.68,159.15){\fontsize{11.38}{13.66}\selectfont $f$}
+  \put(127.87,92.53){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(127.87,45.76){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(154.88,95.69){\fontsize{11.38}{13.66}\selectfont $g_1$}
+  \put(154.88,36.17){\fontsize{11.38}{13.66}\selectfont $g_2$}
+  \put(79.68,68.44){\fontsize{11.38}{13.66}\selectfont $g$}
+  \put(54.16,143.01){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$\alpha$}}
+  \put(54.16,81.78){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$1-\alpha$}}
+  \put(64.81,8.12){\fontsize{11.38}{13.66}\selectfont Randomization}
+  \put(272.43,144.98){\fontsize{11.38}{13.66}\selectfont $s_1$}
+  \put(272.43,82.61){\fontsize{11.38}{13.66}\selectfont $s_2$}
+  \put(253.96,8.12){\fontsize{11.38}{13.66}\selectfont State-wise Randomization}
+  \put(329.13,161.98){\fontsize{11.38}{13.66}\selectfont $\alpha f_1+(1-\alpha) g_1$}
+  \put(329.13,68.44){\fontsize{11.38}{13.66}\selectfont $\alpha f_2+(1-\alpha) g_2$}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(462.74, 202.05)(0,0)
+  \put(0,0){\includegraphics{eaep_main}}
+  \put(127.87,183.24){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(127.87,136.47){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(154.88,187.50){\fontsize{11.38}{13.66}\selectfont $f_1$}
+  \put(154.88,127.97){\fontsize{11.38}{13.66}\selectfont $f_2$}
+  \put(79.68,159.15){\fontsize{11.38}{13.66}\selectfont $f$}
+  \put(127.87,92.53){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(127.87,45.76){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(154.88,95.69){\fontsize{11.38}{13.66}\selectfont $g_1$}
+  \put(154.88,36.17){\fontsize{11.38}{13.66}\selectfont $g_2$}
+  \put(79.68,68.44){\fontsize{11.38}{13.66}\selectfont $g$}
+  \put(54.16,143.01){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$\alpha$}}
+  \put(54.16,81.78){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$1-\alpha$}}
+  \put(64.81,8.12){\fontsize{11.38}{13.66}\selectfont Randomization}
+  \put(272.43,144.98){\fontsize{11.38}{13.66}\selectfont $s_1$}
+  \put(272.43,82.61){\fontsize{11.38}{13.66}\selectfont $s_2$}
+  \put(253.96,8.12){\fontsize{11.38}{13.66}\selectfont State-wise Randomization}
+  \put(329.13,161.98){\fontsize{11.38}{13.66}\selectfont $\alpha f_1+(1-\alpha) g_1$}
+  \put(329.13,68.44){\fontsize{11.38}{13.66}\selectfont $\alpha f_2+(1-\alpha) g_2$}
+  \end{picture}%
+\fi
+\end{figure}

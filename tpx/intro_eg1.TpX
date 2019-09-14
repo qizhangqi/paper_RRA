@@ -1,0 +1,129 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <line x1="-10" y1="90" x2="10" y2="110" arr2="hs12" arrs="2" li="dot"/>
+%  <line x1="-10" y1="90" x2="10" y2="70" arr2="hs12" arrs="2" li="dot"/>
+%  <line x1="20" y1="110" x2="40" y2="120" arr2="h40"/>
+%  <line x1="20" y1="110" x2="40" y2="100" arr2="h40"/>
+%  <line x1="20" y1="70" x2="40" y2="80" arr2="h40"/>
+%  <line x1="20" y1="70" x2="40" y2="60" arr2="h40"/>
+%  <text x="10" y="110" t="$(0.3,0.7)$" tex="$(0.3,0.7)$" h="2"/>
+%  <text x="10" y="70" t="$(0.7,0.3)$" tex="$(0.7,0.3)$" h="2"/>
+%  <text x="0" y="130" t="Scenarios" h="3" halign="c"/>
+%  <text x="42" y="120" t="R" tex="R" h="2"/>
+%  <text x="42" y="100" t="B" tex="B" h="2"/>
+%  <text x="42" y="80" t="R" tex="R" h="2"/>
+%  <text x="42" y="60" t="B" tex="B" h="2"/>
+%  <line x1="45" y1="80" x2="65" y2="85" arr2="h40" li="dash"/>
+%  <line x1="45" y1="100" x2="65" y2="105" arr2="h40" li="dash"/>
+%  <line x1="45" y1="120" x2="65" y2="125" arr2="h40" li="dash"/>
+%  <text x="30" y="130" t="Randomization" h="3" halign="c"/>
+%  <text x="55" y="130" t="State Revelation" h="3" halign="c"/>
+%  <line x1="45" y1="60" x2="65" y2="65" arr2="h40" li="dash"/>
+%  <text x="55" y="125" t="$s_R(0.3)$" tex="$s_R(0.3)$" h="2" halign="c"/>
+%  <text x="55" y="105" t="$s_R(0.3)$" tex="$s_R(0.3)$" h="2" halign="c"/>
+%  <text x="55" y="85" t="$s_R(0.7)$" tex="$s_R(0.7)$" h="2" halign="c"/>
+%  <text x="55" y="65" t="$s_R(0.7)$" tex="$s_R(0.7)$" h="2" halign="c"/>
+%  <text x="67" y="125" t="100" tex="100" h="2"/>
+%  <text x="67" y="105" t="0" tex="0" h="2"/>
+%  <text x="67" y="85" t="100" tex="100" h="2"/>
+%  <text x="67" y="65" t="0" tex="0" h="2"/>
+%  <line x1="45" y1="120" x2="65" y2="115" arr2="h40" li="dash"/>
+%  <text x="55" y="114" t="$s_B(0.7)$" tex="$s_B(0.7)$" h="2" halign="c"/>
+%  <text x="67" y="115" t="0" tex="0" h="2"/>
+%  <line x1="45" y1="100" x2="65" y2="95" arr2="h40" li="dash"/>
+%  <text x="55" y="94" t="$s_B(0.7)$" tex="$s_B(0.7)$" h="2" halign="c"/>
+%  <text x="67" y="95" t="100" tex="100" h="2"/>
+%  <line x1="45" y1="80" x2="65" y2="75" arr2="h40" li="dash"/>
+%  <text x="55" y="74" t="$s_B(0.3)$" tex="$s_B(0.3)$" h="2" halign="c"/>
+%  <text x="67" y="75" t="0" tex="0" h="2"/>
+%  <line x1="45" y1="60" x2="65" y2="55" arr2="h40" li="dash"/>
+%  <text x="55" y="54" t="$s_B(0.3)$" tex="$s_B(0.3)$" h="2" halign="c"/>
+%  <text x="67" y="55" t="100" tex="100" h="2"/>
+%  <text x="0" y="40" t="worst scenario" h="3" halign="c"/>
+%  <text x="0" y="43.5099" t="use the" h="3" halign="c"/>
+%  <text x="55" y="40" t="in each scenario" h="3" halign="c"/>
+%  <text x="55" y="43.5099" t="use the only prior" h="3" halign="c"/>
+%  <text x="30" y="118" t="$(0.5)$" tex="$(0.5)$" h="2" halign="c"/>
+%  <text x="30" y="101" t="$(0.5)$" tex="$(0.5)$" h="2" halign="c"/>
+%  <text x="30" y="78" t="$(0.5)$" tex="$(0.5)$" h="2" halign="c"/>
+%  <text x="30" y="61" t="$(0.5)$" tex="$(0.5)$" h="2" halign="c"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(238.11, 274.96)(0,0)
+  \put(0,0){\includegraphics{intro_eg1.pdf}}
+  \put(62.36,205.93){\fontsize{5.69}{6.83}\selectfont $(0.3,0.7)$}
+  \put(62.36,92.55){\fontsize{5.69}{6.83}\selectfont $(0.7,0.3)$}
+  \put(34.02,262.62){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{Scenarios}}
+  \put(153.07,234.28){\fontsize{5.69}{6.83}\selectfont R}
+  \put(153.07,177.58){\fontsize{5.69}{6.83}\selectfont B}
+  \put(153.07,120.89){\fontsize{5.69}{6.83}\selectfont R}
+  \put(153.07,64.20){\fontsize{5.69}{6.83}\selectfont B}
+  \put(119.06,262.62){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{Randomization}}
+  \put(189.92,262.62){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{State Revelation}}
+  \put(189.92,248.45){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.3)$}}
+  \put(189.92,191.76){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.3)$}}
+  \put(189.92,135.07){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.7)$}}
+  \put(189.92,78.37){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.7)$}}
+  \put(223.94,248.45){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(223.94,191.76){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(223.94,135.07){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(223.94,78.37){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(189.92,217.27){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.7)$}}
+  \put(223.94,220.10){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(189.92,160.58){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.7)$}}
+  \put(223.94,163.41){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(189.92,103.88){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.3)$}}
+  \put(223.94,106.72){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(189.92,47.19){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.3)$}}
+  \put(223.94,50.03){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(34.02,7.51){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{worst scenario}}
+  \put(34.02,17.46){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{use the}}
+  \put(189.92,7.51){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{in each scenario}}
+  \put(189.92,17.46){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{use the only prior}}
+  \put(119.06,228.61){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \put(119.06,180.42){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \put(119.06,115.22){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \put(119.06,67.03){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(238.11, 274.96)(0,0)
+  \put(0,0){\includegraphics{intro_eg1}}
+  \put(62.36,205.93){\fontsize{5.69}{6.83}\selectfont $(0.3,0.7)$}
+  \put(62.36,92.55){\fontsize{5.69}{6.83}\selectfont $(0.7,0.3)$}
+  \put(34.02,262.62){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{Scenarios}}
+  \put(153.07,234.28){\fontsize{5.69}{6.83}\selectfont R}
+  \put(153.07,177.58){\fontsize{5.69}{6.83}\selectfont B}
+  \put(153.07,120.89){\fontsize{5.69}{6.83}\selectfont R}
+  \put(153.07,64.20){\fontsize{5.69}{6.83}\selectfont B}
+  \put(119.06,262.62){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{Randomization}}
+  \put(189.92,262.62){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{State Revelation}}
+  \put(189.92,248.45){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.3)$}}
+  \put(189.92,191.76){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.3)$}}
+  \put(189.92,135.07){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.7)$}}
+  \put(189.92,78.37){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_R(0.7)$}}
+  \put(223.94,248.45){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(223.94,191.76){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(223.94,135.07){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(223.94,78.37){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(189.92,217.27){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.7)$}}
+  \put(223.94,220.10){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(189.92,160.58){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.7)$}}
+  \put(223.94,163.41){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(189.92,103.88){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.3)$}}
+  \put(223.94,106.72){\fontsize{5.69}{6.83}\selectfont 0}
+  \put(189.92,47.19){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$s_B(0.3)$}}
+  \put(223.94,50.03){\fontsize{5.69}{6.83}\selectfont 100}
+  \put(34.02,7.51){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{worst scenario}}
+  \put(34.02,17.46){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{use the}}
+  \put(189.92,7.51){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{in each scenario}}
+  \put(189.92,17.46){\fontsize{8.54}{10.24}\selectfont \makebox[0pt]{use the only prior}}
+  \put(119.06,228.61){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \put(119.06,180.42){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \put(119.06,115.22){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \put(119.06,67.03){\fontsize{5.69}{6.83}\selectfont \makebox[0pt]{$(0.5)$}}
+  \end{picture}%
+\fi
+\end{figure}

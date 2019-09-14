@@ -1,0 +1,65 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <line x1="30" y1="70" x2="50" y2="80" arr2="h40" li="dash"/>
+%  <line x1="30" y1="70" x2="50" y2="60" arr2="h40" li="dash"/>
+%  <text x="42" y="78" t="$s_1$" tex="$s_1$" h="4" halign="r"/>
+%  <text x="42" y="60" t="$s_2$" tex="$s_2$" h="4" halign="r"/>
+%  <text x="52" y="79" t="$f_1$" tex="$f_1$" h="4"/>
+%  <text x="52" y="58" t="$f_2$" tex="$f_2$" h="4"/>
+%  <text x="25" y="68.7177" t="$f$" tex="$f$" h="4" li="dash"/>
+%  <line x1="30" y1="37.6145" x2="50" y2="47.6145" arr2="h40" li="dash"/>
+%  <line x1="30" y1="37.6145" x2="50" y2="27.6145" arr2="h40" li="dash"/>
+%  <text x="42" y="46" t="$s_1$" tex="$s_1$" h="4" halign="r"/>
+%  <text x="42" y="28" t="$s_2$" tex="$s_2$" h="4" halign="r"/>
+%  <text x="52" y="46.6145" t="$g_1$" tex="$g_1$" h="4"/>
+%  <text x="52" y="25.6145" t="$g_2$" tex="$g_2$" h="4"/>
+%  <text x="25" y="36.3322" t="$g$" tex="$g$" h="4" li="dash"/>
+%  <line x1="33.7396" y1="39.6041" x2="33.7396" y2="39.6041" arr2="h40" li="dash"/>
+%  <line x1="8.46834" y1="53.7" x2="23.4683" y2="70" arr2="h40"/>
+%  <line x1="8.46834" y1="53.7" x2="23.4683" y2="38" arr2="h40"/>
+%  <text x="9.76264" y="66" t="$P(f)$" tex="$P(f)$" h="4"/>
+%  <text x="8.77467" y="41" t="$P(g)$" tex="$P(g)$" h="4"/>
+%  <text x="1.43544" y="52.862" t="$P$" tex="$P$" h="4"/>
+%  <text x="1.43544" y="52.862" t="$P$" tex="$P$" h="4"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(183.02, 174.01)(0,0)
+  \put(0,0){\includegraphics{object.pdf}}
+  \put(120.66,156.61){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(120.66,105.59){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(149.00,159.45){\fontsize{11.38}{13.66}\selectfont $f_1$}
+  \put(149.00,99.92){\fontsize{11.38}{13.66}\selectfont $f_2$}
+  \put(72.47,130.30){\fontsize{11.38}{13.66}\selectfont $f$}
+  \put(120.66,65.90){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(120.66,14.88){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(149.00,67.65){\fontsize{11.38}{13.66}\selectfont $g_1$}
+  \put(149.00,8.12){\fontsize{11.38}{13.66}\selectfont $g_2$}
+  \put(72.47,38.50){\fontsize{11.38}{13.66}\selectfont $g$}
+  \put(29.27,122.60){\fontsize{11.38}{13.66}\selectfont $P(f)$}
+  \put(26.47,51.73){\fontsize{11.38}{13.66}\selectfont $P(g)$}
+  \put(5.67,85.36){\fontsize{11.38}{13.66}\selectfont $P$}
+  \put(5.67,85.36){\fontsize{11.38}{13.66}\selectfont $P$}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(183.02, 174.01)(0,0)
+  \put(0,0){\includegraphics{object}}
+  \put(120.66,156.61){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(120.66,105.59){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(149.00,159.45){\fontsize{11.38}{13.66}\selectfont $f_1$}
+  \put(149.00,99.92){\fontsize{11.38}{13.66}\selectfont $f_2$}
+  \put(72.47,130.30){\fontsize{11.38}{13.66}\selectfont $f$}
+  \put(120.66,65.90){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_1$}}
+  \put(120.66,14.88){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_2$}}
+  \put(149.00,67.65){\fontsize{11.38}{13.66}\selectfont $g_1$}
+  \put(149.00,8.12){\fontsize{11.38}{13.66}\selectfont $g_2$}
+  \put(72.47,38.50){\fontsize{11.38}{13.66}\selectfont $g$}
+  \put(29.27,122.60){\fontsize{11.38}{13.66}\selectfont $P(f)$}
+  \put(26.47,51.73){\fontsize{11.38}{13.66}\selectfont $P(g)$}
+  \put(5.67,85.36){\fontsize{11.38}{13.66}\selectfont $P$}
+  \put(5.67,85.36){\fontsize{11.38}{13.66}\selectfont $P$}
+  \end{picture}%
+\fi
+\end{figure}

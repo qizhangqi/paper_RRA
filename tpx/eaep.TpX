@@ -1,0 +1,96 @@
+%<TpX v="5" ArrowsSize="0.7" StarsSize="1" DefaultFontHeight="5" DefaultSymbolSize="30" ApproximationPrecision="0.01" PicScale="1" Border="2" BitmapRes="20000" HatchingStep="2" DottedSize="0.5" DashSize="1" LineWidth="0.3">
+%  <line x1="21.5317" y1="70" x2="41.5317" y2="80" arr2="h40" li="dash"/>
+%  <line x1="21.5317" y1="70" x2="41.5317" y2="60" arr2="h40" li="dash"/>
+%  <text x="33.9715" y="78.7735" t="$s_R$" tex="$s_R$" h="4" halign="r"/>
+%  <text x="33.9715" y="60.0361" t="$s_B$" tex="$s_B$" h="4" halign="r"/>
+%  <text x="43.5317" y="79" t="$100" h="5"/>
+%  <text x="43.5317" y="58" t="$0" h="5"/>
+%  <text x="16" y="69" t="R" h="4" li="dash"/>
+%  <line x1="21.5317" y1="37.6145" x2="41.5317" y2="47.6145" arr2="h40" li="dash"/>
+%  <line x1="21.5317" y1="37.6145" x2="41.5317" y2="27.6145" arr2="h40" li="dash"/>
+%  <text x="43.5317" y="46.6145" t="$0" h="5"/>
+%  <text x="43.5317" y="25.6145" t="$100" h="5"/>
+%  <text x="16" y="36.6145" t="B" h="4" li="dash"/>
+%  <line x1="25.2713" y1="39.6041" x2="25.2713" y2="39.6041" arr2="h40" li="dash"/>
+%  <text x="-3.64556" y="65" t="1/2" h="4"/>
+%  <text x="-3.64556" y="41" t="1/2" h="4"/>
+%  <line x1="99.6729" y1="70" x2="119.673" y2="80" arr2="h40"/>
+%  <line x1="99.6729" y1="70" x2="119.673" y2="60" arr2="h40"/>
+%  <text x="111.709" y="77.3566" t="1/2" h="4" halign="r"/>
+%  <text x="111.709" y="60.2385" t="1/2" h="4" halign="r"/>
+%  <text x="121.673" y="79" t="R, $100" h="5"/>
+%  <text x="121.673" y="58" t="B, $0" h="5"/>
+%  <line x1="99.6729" y1="37.6145" x2="119.673" y2="47.6145" arr2="h40"/>
+%  <line x1="99.6729" y1="37.6145" x2="119.673" y2="27.6145" arr2="h40"/>
+%  <text x="111.709" y="45.3759" t="1/2" h="4" halign="r"/>
+%  <text x="111.709" y="27.6506" t="1/2" h="4" halign="r"/>
+%  <text x="121.673" y="46.6145" t="R, $0" h="5"/>
+%  <text x="121.673" y="25.6145" t="B, $100" h="5"/>
+%  <line x1="103.412" y1="39.6041" x2="103.412" y2="39.6041" arr2="h40"/>
+%  <line x1="69.6727" y1="53.7" x2="99.6729" y2="70" arr2="h40" li="dash"/>
+%  <line x1="69.6727" y1="53.7" x2="99.6729" y2="37.61" arr2="h40" li="dash"/>
+%  <text x="33.9715" y="47" t="$s_R$" tex="$s_R$" h="4" halign="r"/>
+%  <text x="33.9715" y="27.5" t="$s_B$" tex="$s_B$" h="4" halign="r"/>
+%  <text x="90.4269" y="68" t="$s_R$" tex="$s_R$" h="4" halign="r"/>
+%  <text x="90.4269" y="37.4539" t="$s_B$" tex="$s_B$" h="4" halign="r"/>
+%  <line x1="-15.0107" y1="53.7" x2="14.9895" y2="70" arr2="h40"/>
+%  <line x1="-15.0107" y1="53.7" x2="14.9895" y2="37.61" arr2="h40"/>
+%</TpX>
+\begin{figure}
+\centering
+\ifpdf
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(443.67, 176.84)(0,0)
+  \put(0,0){\includegraphics{eaep.pdf}}
+  \put(144.52,159.42){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_R$}}
+  \put(144.52,106.30){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_B$}}
+  \put(171.62,160.06){\fontsize{14.23}{17.07}\selectfont \$100}
+  \put(171.62,100.53){\fontsize{14.23}{17.07}\selectfont \$0}
+  \put(93.57,131.71){\fontsize{11.38}{13.66}\selectfont R}
+  \put(171.62,68.26){\fontsize{14.23}{17.07}\selectfont \$0}
+  \put(171.62,8.73){\fontsize{14.23}{17.07}\selectfont \$100}
+  \put(93.57,39.91){\fontsize{11.38}{13.66}\selectfont B}
+  \put(37.89,120.37){\fontsize{11.38}{13.66}\selectfont 1/2}
+  \put(37.89,52.34){\fontsize{11.38}{13.66}\selectfont 1/2}
+  \put(364.87,155.40){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(364.87,106.88){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(393.12,160.06){\fontsize{14.23}{17.07}\selectfont R, \$100}
+  \put(393.12,100.53){\fontsize{14.23}{17.07}\selectfont B, \$0}
+  \put(364.87,64.75){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(364.87,14.50){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(393.12,68.26){\fontsize{14.23}{17.07}\selectfont R, \$0}
+  \put(393.12,8.73){\fontsize{14.23}{17.07}\selectfont B, \$100}
+  \put(144.52,69.35){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_R$}}
+  \put(144.52,14.08){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_B$}}
+  \put(304.55,128.88){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_R$}}
+  \put(304.55,42.29){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_B$}}
+  \end{picture}%
+\else
+  \setlength{\unitlength}{1bp}%
+  \begin{picture}(443.67, 176.84)(0,0)
+  \put(0,0){\includegraphics{eaep}}
+  \put(144.52,159.42){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_R$}}
+  \put(144.52,106.30){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_B$}}
+  \put(171.62,160.06){\fontsize{14.23}{17.07}\selectfont \$100}
+  \put(171.62,100.53){\fontsize{14.23}{17.07}\selectfont \$0}
+  \put(93.57,131.71){\fontsize{11.38}{13.66}\selectfont R}
+  \put(171.62,68.26){\fontsize{14.23}{17.07}\selectfont \$0}
+  \put(171.62,8.73){\fontsize{14.23}{17.07}\selectfont \$100}
+  \put(93.57,39.91){\fontsize{11.38}{13.66}\selectfont B}
+  \put(37.89,120.37){\fontsize{11.38}{13.66}\selectfont 1/2}
+  \put(37.89,52.34){\fontsize{11.38}{13.66}\selectfont 1/2}
+  \put(364.87,155.40){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(364.87,106.88){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(393.12,160.06){\fontsize{14.23}{17.07}\selectfont R, \$100}
+  \put(393.12,100.53){\fontsize{14.23}{17.07}\selectfont B, \$0}
+  \put(364.87,64.75){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(364.87,14.50){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{1/2}}
+  \put(393.12,68.26){\fontsize{14.23}{17.07}\selectfont R, \$0}
+  \put(393.12,8.73){\fontsize{14.23}{17.07}\selectfont B, \$100}
+  \put(144.52,69.35){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_R$}}
+  \put(144.52,14.08){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_B$}}
+  \put(304.55,128.88){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_R$}}
+  \put(304.55,42.29){\fontsize{11.38}{13.66}\selectfont \makebox[0pt][r]{$s_B$}}
+  \end{picture}%
+\fi
+\end{figure}
