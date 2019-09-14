@@ -1,0 +1,775 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.14)  14 SEP 2019 15:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"RAA R2.tex"
+(./RAA R2.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+)) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2019basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks21
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count103
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+\c@theorem=\count104
+\c@algorithm=\count105
+\c@axiom=\count106
+\c@case=\count107
+\c@claim=\count108
+\c@conclusion=\count109
+\c@condition=\count110
+\c@conjecture=\count111
+\c@corollary=\count112
+\c@criterion=\count113
+\c@definition=\count114
+\c@example=\count115
+\c@exercise=\count116
+\c@lemma=\count117
+\c@notation=\count118
+\c@problem=\count119
+\c@proposition=\count120
+\c@remark=\count121
+\c@solution=\count122
+\c@summary=\count123
+ (./tcilatex.tex
+TCILATEX Macros for Scientific Word 2.5 <22 Dec 95>.
+NOTICE: This macro file is NOT proprietary and may be freely copied and distributed.
+\@hour=\count124
+\@minute=\count125
+\GRAPHICSTYPE=\count126
+\draft=\count127
+\dispkind=\count128
+\c@chapter=\count129
+\theight=\dimen122
+LaTeX Info: Redefining \rm on input line 557.
+LaTeX Info: Redefining \sf on input line 558.
+LaTeX Info: Redefining \tt on input line 559.
+LaTeX Info: Redefining \bf on input line 560.
+LaTeX Info: Redefining \it on input line 561.
+LaTeX Info: Redefining \sl on input line 562.
+LaTeX Info: Redefining \sc on input line 563.
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\c@equationnumber=\count130
+ amsgen already loaded) (/Users/zhangqi/Downloads/ksw/paper_RRA/.texpadtmp/RAA R2.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `"RAA R2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2019basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen123
+\scratchbox=\box29
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen124
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (/usr/local/texlive/2019basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 64.
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 64.
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 64.
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+ (/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+
+
+Package natbib Warning: Citation `AA63' on page 1 undefined on input line 69.
+
+[1
+
+{/usr/local/texlive/2019basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `Ellsberg61' on page 1 undefined on input line 91.
+
+
+Package natbib Warning: Citation `MachinaSchmeidler92' on page 1 undefined on input line 104.
+
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 1 undefined on input line 107.
+
+
+Package natbib Warning: Citation `HansenSargent10' on page 1 undefined on input line 129.
+
+
+Package natbib Warning: Citation `BergemannSchlag11' on page 1 undefined on input line 129.
+
+
+Package natbib Warning: Citation `Antic14' on page 1 undefined on input line 129.
+
+
+Package natbib Warning: Citation `EasleyOHaraYang14' on page 1 undefined on input line 129.
+
+
+Package natbib Warning: Citation `DiTillioKosMessner17' on page 1 undefined on input line 129.
+
+
+Package natbib Warning: Citation `CarrascoFarinhaLuzKosEtAl18' on page 1 undefined on input line 129.
+
+[1
+
+]
+
+Package natbib Warning: Citation `Raiffa61' on page 2 undefined on input line 167.
+
+[2]
+
+Package natbib Warning: Citation `Saito15' on page 3 undefined on input line 185.
+
+
+Package natbib Warning: Citation `EpsteinMarinacciSeo07' on page 3 undefined on input line 208.
+
+
+Package natbib Warning: Citation `Bade15' on page 3 undefined on input line 208.
+
+
+Package natbib Warning: Citation `BaillonHalevyLi15' on page 3 undefined on input line 208.
+
+
+Package natbib Warning: Citation `Saito15' on page 3 undefined on input line 208.
+
+
+Package natbib Warning: Citation `OechsslerRauRoomets19' on page 3 undefined on input line 208.
+
+[3
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+] [4]
+
+Package natbib Warning: Citation `AA63' on page 5 undefined on input line 256.
+
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 5 undefined on input line 277.
+
+[5
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `Saito15' on page 6 undefined on input line 351.
+
+
+Package natbib Warning: Citation `Machina85' on page 6 undefined on input line 357.
+
+
+Package natbib Warning: Citation `Cerreia-VioglioDillenbergerOrtoleva15' on page 6 undefined on input line 358.
+
+
+Package natbib Warning: Citation `FudenbergIijimaStrzalecki15' on page 6 undefined on input line 358.
+
+
+Package natbib Warning: Citation `Cerreia-VioglioDillenbergerOrtolevaEtAl19' on page 6 undefined on input line 359.
+
+[6]
+
+Package natbib Warning: Citation `LehrerTeper11' on page 7 undefined on input line 362.
+
+
+Package natbib Warning: Citation `FrickIijimaLeYaouanq19' on page 7 undefined on input line 365.
+
+[7
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+]
+
+Package natbib Warning: Citation `DominiakSchnedler11' on page 8 undefined on input line 370.
+
+
+Package natbib Warning: Citation `AgranovOrtoleva17' on page 8 undefined on input line 370.
+
+
+Package natbib Warning: Citation `DwengerKublerWeizsacker16' on page 8 undefined on input line 371.
+
+
+Package natbib Warning: Citation `OechsslerRauRoomets19' on page 8 undefined on input line 371.
+
+
+Package natbib Warning: Citation `ChewMiaoShenEtAl19' on page 8 undefined on input line 372.
+
+
+Package natbib Warning: Citation `ZhangZhong19' on page 8 undefined on input line 372.
+
+
+Package natbib Warning: Citation `Bade15' on page 8 undefined on input line 382.
+
+
+Package natbib Warning: Citation `BaillonHalevyLi15' on page 8 undefined on input line 382.
+
+
+Package natbib Warning: Citation `Kuzmics17' on page 8 undefined on input line 385.
+
+[8
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+] [9]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11] [12]
+
+Package natbib Warning: Citation `AA63' on page 13 undefined on input line 619.
+
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 13 undefined on input line 634.
+
+[13]
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 14 undefined on input line 649.
+
+[14]
+
+Package natbib Warning: Citation `Lehmann55' on page 15 undefined on input line 711.
+
+
+Package natbib Warning: Citation `Saito11' on page 15 undefined on input line 731.
+
+
+Package natbib Warning: Citation `Saito13' on page 15 undefined on input line 731.
+
+
+Package natbib Warning: Citation `GajdosMaurin04' on page 15 undefined on input line 731.
+
+
+Package natbib Warning: Citation `Fleurbaey10' on page 15 undefined on input line 731.
+
+[15]
+
+Package natbib Warning: Citation `RothschildStiglitz70' on page 16 undefined on input line 766.
+
+[16]
+
+Package natbib Warning: Citation `RothschildStiglitz70' on page 17 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Saito13' on page 17 undefined on input line 805.
+
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 17 undefined on input line 811.
+
+[17] [18]
+
+Package natbib Warning: Citation `AliprantisBorder06' on page 19 undefined on input line 875.
+
+[19]
+
+Package natbib Warning: Citation `Cerreia-Vioglio09' on page 20 undefined on input line 951.
+
+
+Package natbib Warning: Citation `Cerreia-VioglioDillenbergerOrtoleva15' on page 20 undefined on input line 952.
+
+
+Package natbib Warning: Citation `Cerreia-VioglioMaccheroniMarinacci17' on page 20 undefined on input line 953.
+
+
+Package natbib Warning: Citation `Nehring01' on page 20 undefined on input line 956.
+
+
+Package natbib Warning: Citation `GhirardatoMaccheroniMarinacci04' on page 20 undefined on input line 956.
+
+[20]
+
+Package natbib Warning: Citation `DubraMaccheroniOk04' on page 21 undefined on input line 961.
+
+
+Package natbib Warning: Citation `Maccheroni02' on page 21 undefined on input line 990.
+
+
+Package natbib Warning: Citation `Cerreia-VioglioDillenbergerOrtoleva15' on page 21 undefined on input line 999.
+
+[21]
+
+Package natbib Warning: Citation `Cerreia-VioglioDillenbergerOrtoleva15' on page 22 undefined on input line 1052.
+
+[22]
+
+Package natbib Warning: Citation `Saito15' on page 23 undefined on input line 1061.
+
+
+Package natbib Warning: Citation `Seo09' on page 23 undefined on input line 1062.
+
+
+Package natbib Warning: Citation `Saito15' on page 23 undefined on input line 1062.
+
+
+Package natbib Warning: Citation `EpsteinMarinacciSeo07' on page 23 undefined on input line 1065.
+
+
+Package natbib Warning: Citation `Raiffa61' on page 23 undefined on input line 1078.
+
+[23] [24]
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 25 undefined on input line 1146.
+
+
+Package natbib Warning: Citation `Saito15' on page 25 undefined on input line 1151.
+
+
+Package natbib Warning: Citation `Saito15' on page 25 undefined on input line 1153.
+
+[25] [26]
+
+Package natbib Warning: Citation `Saito15' on page 27 undefined on input line 1222.
+
+
+Package natbib Warning: Citation `Saito15' on page 27 undefined on input line 1259.
+
+
+Package natbib Warning: Citation `Seo09' on page 27 undefined on input line 1259.
+
+
+Package natbib Warning: Citation `Saito11' on page 27 undefined on input line 1259.
+
+[27]
+
+Package natbib Warning: Citation `KlibanoffMarinacciMukerji05' on page 28 undefined on input line 1269.
+
+
+Package natbib Warning: Citation `Saito11' on page 28 undefined on input line 1286.
+
+
+Package natbib Warning: Citation `Saito15' on page 28 undefined on input line 1288.
+
+[28]
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 29 undefined on input line 1305.
+
+
+Package natbib Warning: Citation `Schmeidler89' on page 29 undefined on input line 1305.
+
+
+Package natbib Warning: Citation `GhirardatoMarinacci01' on page 29 undefined on input line 1306.
+
+
+Package natbib Warning: Citation `MaccheroniMarinacciRustichini06' on page 29 undefined on input line 1306.
+
+
+Package natbib Warning: Citation `Siniscalchi09' on page 29 undefined on input line 1307.
+
+
+Package natbib Warning: Citation `CMMM11' on page 29 undefined on input line 1307.
+
+
+Package natbib Warning: Citation `LehrerTeper11' on page 29 undefined on input line 1307.
+
+
+Package natbib Warning: Citation `FrickIijimaLeYaouanq19' on page 29 undefined on input line 1308.
+
+
+Package natbib Warning: Citation `Seo09' on page 29 undefined on input line 1308.
+
+
+Package natbib Warning: Citation `Saito11' on page 29 undefined on input line 1308.
+
+
+Package natbib Warning: Citation `LinhartRadner89' on page 29 undefined on input line 1319.
+
+
+Package natbib Warning: Citation `BergemannSchlag08' on page 29 undefined on input line 1319.
+
+
+Package natbib Warning: Citation `BergemannSchlag11' on page 29 undefined on input line 1319.
+
+
+Package natbib Warning: Citation `Auster18' on page 29 undefined on input line 1319.
+
+
+Package natbib Warning: Citation `CarrascoFarinhaLuzKosEtAl18' on page 29 undefined on input line 1319.
+
+
+Package natbib Warning: Citation `BoseOzdenorenPape06' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `BoseDaripa09' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `Bodoh-Creed12' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `Carroll15' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `Carroll17' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `Wolitzky16' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `CastroLiuYannelis17a' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `CastroLiuYannelis17b' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `DiTillioKosMessner17' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `CarrollSegal18' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `CastroYannelis18' on page 29 undefined on input line 1327.
+
+
+Package natbib Warning: Citation `DiTillioKosMessner17' on page 29 undefined on input line 1332.
+
+
+Package natbib Warning: Citation `BoseRenou14' on page 29 undefined on input line 1332.
+
+
+Package natbib Warning: Citation `EasleyOHara10' on page 29 undefined on input line 1337.
+
+
+Package natbib Warning: Citation `EpsteinSchneider10' on page 29 undefined on input line 1337.
+
+
+Package natbib Warning: Citation `Antic14' on page 29 undefined on input line 1337.
+
+
+Package natbib Warning: Citation `EasleyOHaraYang14' on page 29 undefined on input line 1337.
+
+
+Package natbib Warning: Citation `IlutKehrigSchneider17' on page 29 undefined on input line 1337.
+
+
+Package natbib Warning: Citation `Ellsberg61' on page 29 undefined on input line 1345.
+
+
+Package natbib Warning: Citation `Raiffa61' on page 29 undefined on input line 1345.
+
+[29]
+
+Package natbib Warning: Citation `AA63' on page 30 undefined on input line 1365.
+
+[30] (/Users/zhangqi/Downloads/ksw/paper_RRA/.texpadtmp/RAA R2.bbl) [31] [32]
+
+Package natbib Warning: Citation `AliprantisBorder06' on page 33 undefined on input line 1446.
+
+[33]
+
+Package natbib Warning: Citation `AliprantisBorder06' on page 34 undefined on input line 1497.
+
+
+Package natbib Warning: Citation `AliprantisBorder06' on page 34 undefined on input line 1502.
+
+[34] [35] [36] [37] [38] [39]
+
+Package natbib Warning: Citation `DubraMaccheroniOk04' on page 40 undefined on input line 1784.
+
+
+Overfull \hbox (12.06424pt too wide) in paragraph at lines 1800--1805
+[]\OT1/cmr/m/it/12 Every $\OML/cmm/m/it/12 V$ \OT1/cmr/m/it/12 in $\U/msb/m/n/12 V$ \OT1/cmr/m/it/12 is weakly in-creas-ing, con-cave, and sat-is-fies $\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/12 ^^U[][] \OT1/cmr/m/n/12 + (1 \OMS/cmsy/m/n/12 ^^@ []\OML/cmm/m/it/12 ^^U\OT1/cmr/m/n/12 )[]\OML/cmm/m/it/12 ^^L; [] ; []^^U[][] \OT1/cmr/m/n/12 +
+ []
+
+[40]
+
+Package natbib Warning: Citation `AliprantisBorder06' on page 41 undefined on input line 1865.
+
+[41] [42]
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 43 undefined on input line 1966.
+
+
+Package natbib Warning: Citation `GilboaSchmeidler89' on page 43 undefined on input line 1985.
+
+[43]
+
+Package natbib Warning: Citation `Lehmann55' on page 44 undefined on input line 2015.
+
+
+Package natbib Warning: Citation `RothschildStiglitz70' on page 44 undefined on input line 2029.
+
+
+Overfull \hbox (22.25708pt too wide) in alignment at lines 2030--2039
+ [][][] []
+ []
+
+[44] [45]
+
+Package natbib Warning: Citation `DubraMaccheroniOk04' on page 46 undefined on input line 2132.
+
+[46] [47] [48] [49]
+
+Package natbib Warning: There were undefined citations.
+
+[50] [51
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+] [52
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+Non-PDF special ignored!
+<special> language "Scientific Word";type "GRAPHIC";maintain-aspect-ratio T...
+] (/Users/zhangqi/Downloads/ksw/paper_RRA/.texpadtmp/RAA R2.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred when \ifx on line 678 was incomplete) 
+Here is how much of TeX's memory you used:
+ 3575 strings out of 494060
+ 47674 string characters out of 6163035
+ 122584 words of memory out of 5000000
+ 7206 multiletter control sequences out of 15000+600000
+ 18294 words of font info for 74 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 41i,13n,32p,514b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2019basic/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "/Users/zhangqi/Downloads/ksw/paper_RRA/.texpadtmp/RAA R2.pdf" (53 pages, 410076 bytes).
+PDF statistics:
+ 272 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
