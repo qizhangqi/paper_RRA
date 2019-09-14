@@ -9,14 +9,23 @@
 \usepackage{geometry}
 \usepackage[doublespacing]{setspace}
 \usepackage[authoryear,longnamesfirst,comma]{natbib}
-\usepackage{graphicx}
+%\usepackage{graphicx}
+
+% tpx image related, begin
+\usepackage{ifpdf}
+\usepackage{color}
+\usepackage[pdftex]{graphicx}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg,.jpeg,.mps}
+\usepackage{tikz}
+% tpx image related, end
+
 
 \setcounter{MaxMatrixCols}{10}
 %TCIDATA{OutputFilter=LATEX.DLL}
 %TCIDATA{Version=5.50.0.2960}
 %TCIDATA{<META NAME="SaveForMode" CONTENT="1">}
 %TCIDATA{BibliographyScheme=BibTeX}
-%TCIDATA{LastRevised=Saturday, September 14, 2019 00:21:34}
+%TCIDATA{LastRevised=Friday, September 13, 2019 22:44:49}
 %TCIDATA{<META NAME="GraphicsSave" CONTENT="32">}
 
 \newtheorem{theorem}{Theorem}
@@ -72,7 +81,7 @@ collection of sets of priors $\mathcal{M}$. She believes that before she
 moves, nature has chosen an unknown scenario (a set of priors) from $%
 \mathcal{M}$, and from that scenario, nature will choose a prior after she
 moves. The representation illustrates how randomization may partially
-eliminate the effect of\ ambiguity.
+eliminate the effect of\ ambiguity. 
 \end{abstract}
 
 \vskip1cm
@@ -189,7 +198,7 @@ are not ruled out, either the first view or the second is adopted.\footnote{%
 See Section \ref{lit} for a more detailed discussion.}
 
 \begin{figure}[h!]
-  \centering   
+  \centering   \label{fig_eaep_intro}
     \includegraphics{img/eaep.pdf}
     \caption{There are
 two states, in which $s_{R}$ ($s_{B}$) means that red (black) is drawn from
@@ -198,8 +207,8 @@ the ambiguous urn. Randomization is represented by solid lines, with
 B\textquotedblright ) representing betting on red (black). The number along
 a solid line indicates the objective probability of betting on the
 corresponding color.}
-\label{fig_eaep_intro}
 \end{figure}
+
 
 A few papers have noted that the main difference between the two views lies
 in \textit{subjective timing}.\footnote{%
@@ -268,13 +277,13 @@ require us to describe objectively how the probability law is determined;
 this will be subjective and revealed from the individual's preference.
 
 \begin{figure}[h!]
-  \centering   
+  \centering   \label{fig_eaep_intro_to_delete}
     \includegraphics{img/object.pdf}
-    \caption{A lottery $P$ that yields
-act $f$ with probability $P(f)$ and act $g$ with $P(g)$, in which $f_{i}$ ($%
-g_{i}$) is the prize associated with state $s_{i}$ by $f$ ($g$).}
-\label{fig_obj}
+    \caption{A lottery $P$ that yields act $f$ with
+probability $P(f)$ and act $g$ with $P(g)$, in which $f_{i}$ ($g_{i}$) is
+the prize associated with state $s_{i}$ by $f$ ($g$).}
 \end{figure}
+
 
 
 We incorporate ideas from \cite{GilboaSchmeidler89} and first- and
@@ -294,7 +303,7 @@ scenario (although unknown to her) from $\mathcal{M}$. After she randomizes,
 nature will choose a prior $\mu $ from that scenario.
 
 \begin{figure}[h!]
-  \centering   
+  \centering   \label{fig_intro_eg1}
     \includegraphics{img/intro_eg1.pdf}
     \caption{There are
 two scenarios. For example, $(0.3,0.7)$ is the scenario with 30 red balls
@@ -302,7 +311,6 @@ and 70 black balls in the ambiguous urn. There is only one prior in each
 scenario. In state $s_{R}$ ($s_{B}$), the ball drawn is red (black). In each
 scenario, randomization and state revelation constitute a compound lottery
 that yields \$100 and \$0 with equal probability.}
-\label{fig_intro_eg1}
 \end{figure}
 
 
@@ -317,13 +325,12 @@ believes that the effect of ambiguity is unaffected by randomization, in
 which case $\mathcal{M}$ is a singleton and $M\in \mathcal{M}$ is not.
 
 \begin{figure}[h!]
-  \centering   
+  \centering   \label{fig_intro_eg2}
     \includegraphics{img/intro_eg2.pdf}
     \caption{The only
 scenario contains two priors (either 30 or 70 red balls in the ambiguous
 urn). The worst prior within the scenario depends on the realization of
 randomization.}
-\label{fig_intro_eg2}
 \end{figure}
 
 Figure \ref{fig_intro_eg3} is the investment example, in which the
@@ -342,15 +349,15 @@ not within $M_{N}$.\footnote{%
 A more detailed discussion follows Theorem \ref{special}.}
 
 \begin{figure}[h!]
-  \centering   
+  \centering   \label{fig_intro_eg3}
     \includegraphics{img/intro_eg3.pdf}
     \caption{In the good
 scenario $M_{G}$, the firm will profit (state $s_{p}$) with probability $1$.
 In the bad scenario $M_{B}$, the firm will profit with probability $0$. In
 the neutral scenario $M_{N}$, the probability that the firm profits is
 either $0.3$ or $0.7$, which will be determined after randomization.}
-\label{fig_intro_eg3}
 \end{figure}
+
 
 We discuss the related literature below, and more discussion can be found in
 Section \ref{lit}. The closest paper to ours is \cite{Saito15}. Saito also
@@ -430,7 +437,18 @@ A lottery represents randomization over acts. Following randomization, the
 individual receives an act. Next, a state is \textit{revealed to the
 individual}, after which the act assigns the prize associated with the
 realized state to the individual. Finally, as the prize's risk resolves, the
-individual receives a consequence (see Figure \ref{fig_obj}).
+individual receives a consequence (see Figure \ref{object}).
+
+\begin{figure}[h!]
+  \centering   \label{object}
+    \includegraphics{img/object.pdf}
+    \caption{An example of a
+lottery $P$, in which $f$ and $g$ are two acts, $\{s_{1},s_{2}\}$ is the
+state space, and $f_{i}$ ($g_{i}$) is the prize associated with state $s_{i}$
+by $f$ ($g$).}
+\end{figure}
+
+
 
 Lotteries are denoted by $P,Q,R$, acts are denoted by $f,g,h$, and prizes
 are denoted by $p,q,r$. A degenerate lottery that assigns probability $1$ to
@@ -462,14 +480,13 @@ $+$.\textquotedblright\ In most other places of the paper, however,
 lotteries.}
 
 \begin{figure}[h!]
-  \centering   
+  \centering   \label{fig_rswr}
     \includegraphics{img/eaep_main.pdf}
     \caption{Suppose there are
 two states: $s_{1}$ and $s_{2}$. The left-hand lottery is the randomization
 with probability $\protect\alpha $ between acts (degenerate lotteries) $f$
 and $g$. The right-hand act is the state-wise randomization with probability 
 $\protect\alpha $ between acts $f$ and $g$.}
-\label{fig_rswr}
 \end{figure}
 
 
@@ -1046,8 +1063,8 @@ Moreover, $\widehat{\mathcal{M}}$ is unique up to the closed convex hull.
 \end{theorem}
 
 Our notion of uniqueness is similar to that of \cite%
-{Cerreia-VioglioDillenbergerOrtoleva15}. In their continuous cautious
-expected utility representation, the minimal set of certainty equivalent
+{Cerreia-VioglioDillenbergerOrtoleva15}. In their continuous Cautious
+Expected Utility representation, the minimal set of certainty equivalent
 functions is also unique up to the closed convex hull.
 
 \section{Special Cases of the DMEU}
@@ -1375,7 +1392,7 @@ scenario.\newpage
 
 {\ 
 \bibliographystyle{chicago}
-\bibliography{ke}
+\bibliography{ke}{}
 \pagebreak }
 
 {\appendix
